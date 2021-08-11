@@ -1,0 +1,36 @@
+#intro {
+    background-image: url("/apple-pie/images/apple-pie.jpg");
+    background-size: 100%;
+    width: auto;
+    height: 700px;
+    text-align: center;
+    line-height: 700px;
+    background-repeat: no-repeat;
+    font-size: 70px;
+    color:white;
+}
+
+#text1 {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 30px;
+}
+
+.margin {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.resume {
+    display: flex;
+    justify-content: center;
+}
+
+.subTitle {
+    font-size: 20px;
+}
